@@ -13,6 +13,8 @@ Reduce the number of variables of a data set, while preserving as much informati
 
 # Scree Plot
 
+![high_resolution_scree_plot](https://github.com/SinaHeydari76/Principal-Component-Analysis/assets/167607101/00e21911-e1d1-4941-baef-2ab44f7a1da2)
+
 To help determining the number of principal components to retain for further analysis, each
 point on the scree plot represents an eigenvalue, which is a measure of the variance explained
 by a particular principal component. The principal components are ordered by the amount of
@@ -33,6 +35,8 @@ underlying structure.
 
 # Score Plot
 
+![high_resolution_score_plot](https://github.com/SinaHeydari76/Principal-Component-Analysis/assets/167607101/2e639364-c44a-477d-8ecb-b49a708d9b47)
+
 A score plot is a scatter plot that shows the relationship between two principal components
 (PCs). Principal components are uncorrelated variables created by PCA to capture the most
 variance in a high-dimensional data set.
@@ -51,6 +55,8 @@ A score plot only shows the information captured by the first two principal comp
 we captured.
 
 # Loading Plot
+
+![high_resolution_Loading_plot](https://github.com/SinaHeydari76/Principal-Component-Analysis/assets/167607101/d095c256-aa53-47d2-b678-97fc8f11f6a4)
 
 A loading plot is a way to visualize the relationship between the original variables and the
 principal components. Each point in the plot represents a variable, and the position of the point shows how much that variable contributes to each of the principal components.
